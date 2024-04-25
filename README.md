@@ -1,6 +1,6 @@
 # Chocolate Inventory Management System
 
-Here is a simple inventory management system of a chocolate store. This is designed to automate the process of recording and tracking the inventory of chocolate It comprises of a function that orders a list of products by given sorting keys (name, price or stock) in both ascending and descending order.
+Here is a simple inventory management system of a chocolate store. This is designed to automate the process of recording and tracking the inventory of chocolate, it comprises of a function that orders a list of products by given sorting keys (name, price or stock) in both ascending and descending order.
 
 ## How to Run
 
@@ -24,6 +24,6 @@ python chocolate_inventory.py
 
 - Sorting product `sort_products` function to sort list of products based on specifying sorting key.
 
-- The function to the grouping if the products will be by name, price, price, or stock.
+- The function to the grouping if the products will be by name, price, or stock.
 
 - The ease of arranging the data either as either increasing or decreasing.
