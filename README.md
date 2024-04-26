@@ -27,3 +27,15 @@ python chocolate_inventory.py
 - The function to the grouping if the products will be by name, price, or stock.
 
 - The ease of arranging the data either as either increasing or decreasing.
+
+# Log Tester
+
+This is a simple script to test logging messages to a log file using Python's `logging` module.
+
+## How it Works
+
+This script defines a function called `test_log` that allows logging messages at different log levels (INFO, WARNING, ERROR, CRITICAL) to a specified file.
+
+### Usage Example
+
+test_log("example.log", "User logged in", "INFO")
